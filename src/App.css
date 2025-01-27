@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", serif;
+}
+.d-flex .btn.active{
+  background-color:blueviolet;
+  color: white;
+}
