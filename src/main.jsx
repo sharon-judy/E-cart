@@ -5,7 +5,7 @@ import App from './App.jsx'
 import './bootstrap.min.css'
 import { BrowserRouter } from 'react-router-dom'
 import { Provider } from 'react-redux'
-import cartStore from './Redux/cartstore.js'
+import cartStore from './Redux/cartStore.js'
 
 
 
